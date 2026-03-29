@@ -1,0 +1,13 @@
+Flask
+flask-cors
+psycopg2-binary
+boto3
+pyttsx3
+openai
+torch
+torchaudio
+soundfile
+python-dotenv
+gTTS
+openai-whisper
+python-levenshtein
